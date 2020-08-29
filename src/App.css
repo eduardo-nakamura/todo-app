@@ -18,8 +18,10 @@
     min-height: 20vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;  
+    flex-wrap: wrap
   }
+
   form input,
   form button {
     padding: 0.5rem;
