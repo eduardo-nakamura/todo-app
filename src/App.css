@@ -137,4 +137,12 @@
     transform: scale(1.5);
   }
   */
-  
+  .footer{
+    text-align: center;
+  }
+  .footer h4{
+    padding: 15px;
+  }
+  .footer iframe{
+    max-width: 100%;
+  }
