@@ -22,7 +22,9 @@
     flex-wrap: wrap;
 
   }
-
+  .todo-input{
+    width: 50%;
+  }
   form input,
   form button {
     padding: 0.5rem;
