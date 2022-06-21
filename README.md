@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TODO APP BY DEV ED
+
+Simple Todo App by Dev Ed.<br/>
+[https://www.youtube.com/embed/pCA4qpQDZD8](https://www.youtube.com/embed/pCA4qpQDZD8)
 
 ## Available Scripts
 
